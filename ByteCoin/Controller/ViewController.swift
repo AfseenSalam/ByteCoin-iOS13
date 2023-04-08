@@ -27,6 +27,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 }
+
+//Dividor
 //MARK: - CoinManagerDelegate
     
     extension ViewController : CoinManagerDelegate{
